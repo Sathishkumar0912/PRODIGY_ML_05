@@ -1,0 +1,11 @@
+Predicted food: Apple Pie, Estimated calories: 300
+Predicted food: Baby Back Ribs, Estimated calories: 350
+Predicted food: Baklava, Estimated calories: 400
+Predicted food: Beef Carpaccio, Estimated calories: 250
+Predicted food: Beef Tartare, Estimated calories: 200
+Predicted food: Beet Salad, Estimated calories: 150
+Predicted food: Beignets, Estimated calories: 250
+Predicted food: Bibimbap, Estimated calories: 500
+Predicted food: Bread Pudding, Estimated calories: 300
+Predicted food: Breakfast Burrito, Estimated calories: 350
+...
